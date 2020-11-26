@@ -1,4 +1,5 @@
-### BUS256 Marketing, Analytics Assignment3, DataScraping_QuincyMarket_Tripadvisor
+### BUS256 Marketing Analytics 
+### Assignment3: DataScraping_QuincyMarket_Tripadvisor
 In this assignment, I used Python to extract review data about Quincy Market(Boston) from Tripadvisor website. 
 
 ### Content
