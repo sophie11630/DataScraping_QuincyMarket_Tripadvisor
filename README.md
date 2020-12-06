@@ -3,7 +3,7 @@
 In this assignment, I used Python to extract review data about Quincy Market(Boston) from Tripadvisor website. 
 
 ### Content
-The review data contains 13 columns and 1489 rows.
+The review data contains 1489 rows and the below 13 columns:
 
 scraping_date: the date of scraping.
 
